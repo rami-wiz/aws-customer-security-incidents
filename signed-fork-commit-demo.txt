@@ -1,0 +1,4 @@
+This is a commit by rami-wiz on the rami-wiz fork. 
+
+It can be linked cross-fork, however as a signed commit the identity is confirmed.
+Cross-fork references are suspicious, but more likely to be malicious when the commit is unsigned. 
